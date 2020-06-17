@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "connectionTimeout": 60,
+            "database": "Assignment3_Database",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "MySQL",
+            "password": "khoanguyen1511dn..",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "winnguyen"
+        }
+    ]
+}
