@@ -1,0 +1,13 @@
+1) Databinding:
+
+-In general terms, data binding is a way to bind data to one or more objects ensuring
+synchronization
+
+-One way data binding:source change -> target change
+- Two way data binding: source and target can switch each others.
+
+2) Learning curve:
+- The relation between experience overtime, and the experties of a programming language.
+
+	+Programming language with high learning curve:
+
